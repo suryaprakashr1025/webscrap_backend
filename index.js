@@ -10,7 +10,7 @@ const app = express()
 
 app.use(cors({
         //origin: "http://localhost:3000",
-        origin:"https://venerable-horse-938253.netlify.app"
+        origin:"https://amazing-alfajores-e8a644.netlify.app"
 }))
 
 app.use(express.json())
